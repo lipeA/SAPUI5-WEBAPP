@@ -1,0 +1,18 @@
+<mvc:View xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="frontend.controller.NotaFiscal">
+    <App id="_IDGenApp1">
+        <pages>
+            <Page id="_IDGenPage1" title="Notas Fiscais">
+                <content>
+                    <List id="_IDGenList1" items="{notaFiscalModel>/}">
+                        <StandardListItem id="_IDGenStandardListItem1" 
+                            title="{notaFiscalModel>descricao}" 
+                            description=" valor da nota: {notaFiscalModel>valorNota}"
+                            info=" Nome do cliente: {notaFiscalModel>clienteName}"
+                            
+                        />
+                    </List>
+                </content>
+            </Page>
+        </pages>
+    </App>
+</mvc:View>

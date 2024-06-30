@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Felipe Assis\\Documents\\GitHub\\brGaap\\back\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F845A0F-B9E1-49A4-8F21-B1C7325682D7}|back\\back.csproj|c:\\users\\felipe assis\\documents\\github\\brgaap\\back\\back\\models\\notafiscal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F845A0F-B9E1-49A4-8F21-B1C7325682D7}|back\\back.csproj|solutionrelative:back\\models\\notafiscal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F845A0F-B9E1-49A4-8F21-B1C7325682D7}|back\\back.csproj|c:\\users\\felipe assis\\documents\\github\\brgaap\\back\\back\\controllers\\notacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F845A0F-B9E1-49A4-8F21-B1C7325682D7}|back\\back.csproj|solutionrelative:back\\controllers\\notacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F845A0F-B9E1-49A4-8F21-B1C7325682D7}|back\\back.csproj|c:\\users\\felipe assis\\documents\\github\\brgaap\\back\\back\\data\\notafiscaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F845A0F-B9E1-49A4-8F21-B1C7325682D7}|back\\back.csproj|solutionrelative:back\\data\\notafiscaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F845A0F-B9E1-49A4-8F21-B1C7325682D7}|back\\back.csproj|c:\\users\\felipe assis\\documents\\github\\brgaap\\back\\back\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F845A0F-B9E1-49A4-8F21-B1C7325682D7}|back\\back.csproj|solutionrelative:back\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NotaFiscal.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe Assis\\Documents\\GitHub\\brGaap\\back\\back\\Models\\NotaFiscal.cs",
+              "RelativeDocumentMoniker": "back\\Models\\NotaFiscal.cs",
+              "ToolTip": "C:\\Users\\Felipe Assis\\Documents\\GitHub\\brGaap\\back\\back\\Models\\NotaFiscal.cs",
+              "RelativeToolTip": "back\\Models\\NotaFiscal.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T22:40:23.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotaController.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe Assis\\Documents\\GitHub\\brGaap\\back\\back\\Controllers\\NotaController.cs",
+              "RelativeDocumentMoniker": "back\\Controllers\\NotaController.cs",
+              "ToolTip": "C:\\Users\\Felipe Assis\\Documents\\GitHub\\brGaap\\back\\back\\Controllers\\NotaController.cs",
+              "RelativeToolTip": "back\\Controllers\\NotaController.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAD0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T19:04:28.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotaFiscalDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe Assis\\Documents\\GitHub\\brGaap\\back\\back\\Data\\NotaFiscalDbContext.cs",
+              "RelativeDocumentMoniker": "back\\Data\\NotaFiscalDbContext.cs",
+              "ToolTip": "C:\\Users\\Felipe Assis\\Documents\\GitHub\\brGaap\\back\\back\\Data\\NotaFiscalDbContext.cs",
+              "RelativeToolTip": "back\\Data\\NotaFiscalDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T20:04:41.29Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "814a478f-7b82-4374-aab2-85a124332f88",
+        "Display": 0,
+        "X": 949,
+        "Y": 119,
+        "Width": 1553,
+        "Height": 704,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe Assis\\Documents\\GitHub\\brGaap\\back\\back\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "back\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\Felipe Assis\\Documents\\GitHub\\brGaap\\back\\back\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "back\\Controllers\\ClienteController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T19:06:19.516Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

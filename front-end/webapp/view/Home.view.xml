@@ -1,0 +1,13 @@
+<mvc:View xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="frontend.controller.Home">
+    <App id="_IDGenApp1">
+        <pages>
+            <Page id="_IDGenPage1" title="Clientes">
+                <content>
+                    <List id="_IDGenList1" items="{clientesModel>/}">
+                        <StandardListItem id="_IDGenStandardListItem1" title="{clientesModel>name}" description="{clientesModel>id}" />
+                    </List>
+                </content>
+            </Page>
+        </pages>
+    </App>
+</mvc:View>
