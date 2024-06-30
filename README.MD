@@ -32,7 +32,7 @@ O aplicativo tem como objetivo listar as notas fiscais, exibindo a descrição, 
 
 1. **Clone o repositório**
     ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
+    git clone https://github.com/lipeA/SAPUI5-WEBAPP.git
     cd seu-repositorio/backend
     ```
 
@@ -64,7 +64,7 @@ O aplicativo tem como objetivo listar as notas fiscais, exibindo a descrição, 
 
 1. **Clone o repositório**
     ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
+    git clone https://github.com/lipeA/SAPUI5-WEBAPP.git
     cd seu-repositorio/frontend
     ```
 
